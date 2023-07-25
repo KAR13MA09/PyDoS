@@ -21,8 +21,8 @@
 
 # Insatall
 
-1. git clone https://github.com/KAR13MA09/DDoS-sieu-lo
-2. cd DDoS-Sieu-lo
+1. git clone https://github.com/KAR13MA09/PyDDoS
+2. cd PyDDoS 
 3. bash setup.sh      
-4. python or python3 DDoS-sieu-lo.py
+4. python or python3 PyDDoS.py
 
