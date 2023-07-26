@@ -21,7 +21,7 @@
 
 # Insatall
 
-1. git clone https://github.com/KAR13MA09/PyDDoS
+1. git clone https://github.com/KAR13MA09/PyDoS
 2. cd PyDoS
 3. ls 
 4. bash setup.sh      
